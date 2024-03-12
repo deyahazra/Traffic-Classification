@@ -12,7 +12,7 @@ if not cap.isOpened():
     print("Error opening webcam")
     exit()
 else:
-    print("Webcam is opened")
+    print("Webcam is opened....")
 
 f = 0
 while True:
